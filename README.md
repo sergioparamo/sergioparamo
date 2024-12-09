@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @sergioparamo
-- 👀 I’m interested in Coding, Reading, Cooking and Traveling
-- 🌱 I’m currently learning Javascript, PHP, C#, Scala, Node JS and React
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me sergio.paramo1997@gmail.com
 
-<!---
-sergioparamo/sergioparamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sergio Páramo
+
+### Full Stack Software Developer
+
+Hi! I'm **Sergio** an experienced software developer based in Barcelona.
+
+---
+
+## 🛠️ **Skills & Technologies**
+
+- **Frontend**: Angular, React, JavaScript
+- **Backend**: Node.js, Python, Java, Spring Boot
+- **Database**: MongoDB, Elasticsearch, MySQL, Redis
+- **DevOps**: Docker, Kubernetes, Helm, AWS (Lambda, S3, Cognito), CI/CD Pipelines
+- **Other Tools**: Jest, Luigi, Talend
+
+---
+
+## 💼 **Get in Touch**
+
+- **Email**: [sergio.paramo1997@gmail.com](mailto:sergio.paramo1997@gmail.com)
+
+You can explore my repositories and connect with me for collaborations on open-source projects.
